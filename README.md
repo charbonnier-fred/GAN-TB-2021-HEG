@@ -15,6 +15,7 @@ Mise en place du concept CycleGAN-VC2 pour réaliser une conversion de voix.
 ## Références
 - ALPHAROL, 2019. Voice-Conversion-CycleGAN2. GitHub [en ligne]. 4 novembre 2019. [Consulté le 26 mars 2021]. Disponible à : https://github.com/alpharol/Voice_Conversion_CycleGAN2
 - BROWNLEE, Jason, 2019b. Generative Adversarial Networks with Python: Deep Learning Generative Models for Image Synthesis and Image Translation. Machine Learning Mastery, 2019
+- GOODFELLOW, Ian J., POUGET-ABADIE, Jean, MIRZA, Mehdi, et al. Generative adversarial networks. arXiv preprint arXiv:1406.2661, 2014.
 - KANEKO, Takuhiro, KAMEOKA, Hirokazu, TANAKA, Kou, et al. Cyclegan-vc2: Improved cyclegan-based non-parallel voice conversion. In : ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019. p. 6820-6824.
 - KUN Ma, 2020. CycleGAN-VC2-PyTorch. GitHub [en ligne]. 27 novembre 2020. [Consulté le 26 mars 2021]. Disponible à : https://github.com/jackaduma/CycleGAN-VC2
 - LORIA, Steven, 2013. WAV recording functionality using pyaudio. GitHub [en ligne]. 2 juin 2013. [Consulté le 16 mars 2021]. Disponible à : https://gist.github.com/sloria/5693955
