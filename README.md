@@ -3,16 +3,16 @@ Code source des cas pratiques réalisés dans le cadre de mon travail de Bachelo
 
 Frédéric Charbonnier
 
-##Cas pratiques
+## Cas pratiques
 Les cas pratiques ont été développés en Python 3.7.0 avec TensorFlow 2.3.0.
-###GAN 1D
+### GAN 1D
 Architecture simple basée sur une fonction à une dimension (1D) permettant de générer des points dans un espace donné.
-###DCGAN avec MNIST
+### DCGAN avec MNIST
 Intégration des réseaux de neurones convolutifs pour générer des lettres manuscrites en utilisant le jeu de données MNIST.
-###CycleGAN pour la conversion de voix
+### CycleGAN pour la conversion de voix
 Mise en place du concept CycleGAN-VC2 pour réaliser une conversion de voix.
 
-##Références
+## Références
 - ALPHAROL, 2019. Voice-Conversion-CycleGAN2. GitHub [en ligne]. 4 novembre 2019. [Consulté le 26 mars 2021]. Disponible à : https://github.com/alpharol/Voice_Conversion_CycleGAN2
 - BROWNLEE, Jason, 2019b. Generative Adversarial Networks with Python: Deep Learning Generative Models for Image Synthesis and Image Translation. Machine Learning Mastery, 2019
 - KANEKO, Takuhiro, KAMEOKA, Hirokazu, TANAKA, Kou, et al. Cyclegan-vc2: Improved cyclegan-based non-parallel voice conversion. In : ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019. p. 6820-6824.
